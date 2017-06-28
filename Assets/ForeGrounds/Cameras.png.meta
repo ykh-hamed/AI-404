@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 3ed5ff8a5ea54644fa6a25b5411456e4
+timeCreated: 1450564578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cameras_0
+    21300002: Cameras_1
+    21300004: Cameras_2
+    21300006: Cameras_3
+    21300008: Cameras_4
+    21300010: Cameras_5
+    21300012: Cameras_6
+    21300014: Cameras_7
+    21300016: Cameras_8
+    21300018: Cameras_9
+    21300020: Cameras_10
+    21300022: Cameras_11
+    21300024: Cameras_12
+    21300026: Cameras_13
+    21300028: Cameras_14
+    21300030: Cameras_15
+    21300032: Cameras_16
+    21300034: Cameras_17
+    21300036: Cameras_18
+    21300038: Cameras_19
+    21300040: Cameras_20
+    21300042: Cameras_21
+    21300044: Cameras_22
+    21300046: Cameras_23
+    21300048: Cameras_24
+    21300050: Cameras_25
+    21300052: Cameras_26
+    21300054: Cameras_27
+    21300056: Cameras_28
+    21300058: Cameras_29
+    21300060: Cameras_30
+    21300062: Cameras_31
+    21300064: Cameras_32
+    21300066: Cameras_33
+    21300068: Cameras_34
+    21300070: Cameras_35
+    21300072: Cameras_36
+    21300074: Cameras_37
+    21300076: Cameras_38
+    21300078: Cameras_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cameras_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 165
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 164
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 163
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 163
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 163
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 164
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 124
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 125
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 125
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 123
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 123
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 127
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 127
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 126
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 86
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 85
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 85
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 94
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 98
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 38
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 39
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 42
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 60
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 72
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_31
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 77
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 69
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 76
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 45
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 41
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 47
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 61
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 297
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cameras_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 42
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

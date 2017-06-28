@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 22693ab193de8094ab45ca6ddcbb14d5
+timeCreated: 1450562282
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MMUSprites-WilyMssaachine_0
+    21300002: MMUSprites-WilyMssaachine_1
+    21300004: MMUSprites-WilyMssaachine_2
+    21300006: MMUSprites-WilyMssaachine_3
+    21300008: MMUSprites-WilyMssaachine_4
+    21300010: MMUSprites-WilyMssaachine_5
+    21300012: MMUSprites-WilyMssaachine_6
+    21300014: MMUSprites-WilyMssaachine_7
+    21300016: MMUSprites-WilyMssaachine_8
+    21300018: MMUSprites-WilyMssaachine_9
+    21300020: MMUSprites-WilyMssaachine_10
+    21300022: MMUSprites-WilyMssaachine_11
+    21300024: MMUSprites-WilyMssaachine_12
+    21300026: MMUSprites-WilyMssaachine_13
+    21300028: MMUSprites-WilyMssaachine_14
+    21300030: MMUSprites-WilyMssaachine_15
+    21300032: MMUSprites-WilyMssaachine_16
+    21300034: MMUSprites-WilyMssaachine_17
+    21300036: MMUSprites-WilyMssaachine_18
+    21300038: MMUSprites-WilyMssaachine_19
+    21300040: MMUSprites-WilyMssaachine_20
+    21300042: MMUSprites-WilyMssaachine_21
+    21300044: MMUSprites-WilyMssaachine_22
+    21300046: MMUSprites-WilyMssaachine_23
+    21300048: MMUSprites-WilyMssaachine_24
+    21300050: MMUSprites-WilyMssaachine_25
+    21300052: MMUSprites-WilyMssaachine_26
+    21300054: MMUSprites-WilyMssaachine_27
+    21300056: MMUSprites-WilyMssaachine_28
+    21300058: MMUSprites-WilyMssaachine_29
+    21300060: MMUSprites-WilyMssaachine_30
+    21300062: MMUSprites-WilyMssaachine_31
+    21300064: MMUSprites-WilyMssaachine_32
+    21300066: MMUSprites-WilyMssaachine_33
+    21300068: MMUSprites-WilyMssaachine_34
+    21300070: MMUSprites-WilyMssaachine_35
+    21300072: MMUSprites-WilyMssaachine_36
+    21300074: MMUSprites-WilyMssaachine_37
+    21300076: MMUSprites-WilyMssaachine_38
+    21300078: MMUSprites-WilyMssaachine_39
+    21300080: MMUSprites-WilyMssaachine_40
+    21300082: MMUSprites-WilyMssaachine_41
+    21300084: MMUSprites-WilyMssaachine_42
+    21300086: MMUSprites-WilyMssaachine_43
+    21300088: MMUSprites-WilyMssaachine_44
+    21300090: MMUSprites-WilyMssaachine_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MMUSprites-WilyMssaachine_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 567
+        width: 243
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 567
+        width: 243
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 567
+        width: 243
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 375
+        width: 243
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 375
+        width: 243
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 200
+        width: 72
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 200
+        width: 72
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 200
+        width: 72
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 72
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_11
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 343
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 343
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 343
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_18
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 343
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 343
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_20
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 343
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_21
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 313
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 311
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 309
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 279
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_25
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 277
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_26
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 240
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 240
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_28
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 180
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_29
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 180
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_30
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 180
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_31
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 180
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_32
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 180
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_33
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 180
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_34
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 182
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_35
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 182
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_36
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 182
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_37
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 182
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_38
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 182
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_39
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 182
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 72
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 72
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 72
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 8
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMUSprites-WilyMssaachine_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

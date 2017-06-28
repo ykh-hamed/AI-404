@@ -1,0 +1,2036 @@
+fileFormatVersion: 2
+guid: 22d40132dd3184d4b823d97114f068eb
+timeCreated: 1450540077
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegaMania_MegaManPlayer_0
+    21300002: MegaMania_MegaManPlayer_1
+    21300004: MegaMania_MegaManPlayer_2
+    21300006: MegaMania_MegaManPlayer_3
+    21300008: MegaMania_MegaManPlayer_4
+    21300010: MegaMania_MegaManPlayer_5
+    21300012: MegaMania_MegaManPlayer_6
+    21300014: MegaMania_MegaManPlayer_7
+    21300016: MegaMania_MegaManPlayer_8
+    21300018: MegaMania_MegaManPlayer_9
+    21300020: MegaMania_MegaManPlayer_10
+    21300022: MegaMania_MegaManPlayer_11
+    21300024: MegaMania_MegaManPlayer_12
+    21300026: MegaMania_MegaManPlayer_13
+    21300028: MegaMania_MegaManPlayer_14
+    21300030: MegaMania_MegaManPlayer_15
+    21300032: MegaMania_MegaManPlayer_16
+    21300034: MegaMania_MegaManPlayer_17
+    21300036: MegaMania_MegaManPlayer_18
+    21300038: MegaMania_MegaManPlayer_19
+    21300040: MegaMania_MegaManPlayer_20
+    21300042: MegaMania_MegaManPlayer_21
+    21300044: MegaMania_MegaManPlayer_22
+    21300046: MegaMania_MegaManPlayer_23
+    21300048: MegaMania_MegaManPlayer_24
+    21300050: MegaMania_MegaManPlayer_25
+    21300052: MegaMania_MegaManPlayer_26
+    21300054: MegaMania_MegaManPlayer_27
+    21300056: MegaMania_MegaManPlayer_28
+    21300058: MegaMania_MegaManPlayer_29
+    21300060: MegaMania_MegaManPlayer_30
+    21300062: MegaMania_MegaManPlayer_31
+    21300064: MegaMania_MegaManPlayer_32
+    21300066: MegaMania_MegaManPlayer_33
+    21300068: MegaMania_MegaManPlayer_34
+    21300070: MegaMania_MegaManPlayer_35
+    21300072: MegaMania_MegaManPlayer_36
+    21300074: MegaMania_MegaManPlayer_37
+    21300076: MegaMania_MegaManPlayer_38
+    21300078: MegaMania_MegaManPlayer_39
+    21300080: MegaMania_MegaManPlayer_40
+    21300082: MegaMania_MegaManPlayer_41
+    21300084: MegaMania_MegaManPlayer_42
+    21300086: MegaMania_MegaManPlayer_43
+    21300088: MegaMania_MegaManPlayer_44
+    21300090: MegaMania_MegaManPlayer_45
+    21300092: MegaMania_MegaManPlayer_46
+    21300094: MegaMania_MegaManPlayer_47
+    21300096: MegaMania_MegaManPlayer_48
+    21300098: MegaMania_MegaManPlayer_49
+    21300100: MegaMania_MegaManPlayer_50
+    21300102: MegaMania_MegaManPlayer_51
+    21300104: MegaMania_MegaManPlayer_52
+    21300106: MegaMania_MegaManPlayer_53
+    21300108: MegaMania_MegaManPlayer_54
+    21300110: MegaMania_MegaManPlayer_55
+    21300112: MegaMania_MegaManPlayer_56
+    21300114: MegaMania_MegaManPlayer_57
+    21300116: MegaMania_MegaManPlayer_58
+    21300118: MegaMania_MegaManPlayer_59
+    21300120: MegaMania_MegaManPlayer_60
+    21300122: MegaMania_MegaManPlayer_61
+    21300124: MegaMania_MegaManPlayer_62
+    21300126: MegaMania_MegaManPlayer_63
+    21300128: MegaMania_MegaManPlayer_64
+    21300130: MegaMania_MegaManPlayer_65
+    21300132: MegaMania_MegaManPlayer_66
+    21300134: MegaMania_MegaManPlayer_67
+    21300136: MegaMania_MegaManPlayer_68
+    21300138: MegaMania_MegaManPlayer_69
+    21300140: MegaMania_MegaManPlayer_70
+    21300142: MegaMania_MegaManPlayer_71
+    21300144: MegaMania_MegaManPlayer_72
+    21300146: MegaMania_MegaManPlayer_73
+    21300148: MegaMania_MegaManPlayer_74
+    21300150: MegaMania_MegaManPlayer_75
+    21300152: MegaMania_MegaManPlayer_76
+    21300154: MegaMania_MegaManPlayer_77
+    21300156: MegaMania_MegaManPlayer_78
+    21300158: MegaMania_MegaManPlayer_79
+    21300160: MegaMania_MegaManPlayer_80
+    21300162: MegaMania_MegaManPlayer_81
+    21300164: MegaMania_MegaManPlayer_82
+    21300166: MegaMania_MegaManPlayer_83
+    21300168: MegaMania_MegaManPlayer_84
+    21300170: MegaMania_MegaManPlayer_85
+    21300172: MegaMania_MegaManPlayer_86
+    21300174: MegaMania_MegaManPlayer_87
+    21300176: MegaMania_MegaManPlayer_88
+    21300178: MegaMania_MegaManPlayer_89
+    21300180: MegaMania_MegaManPlayer_90
+    21300182: MegaMania_MegaManPlayer_91
+    21300184: MegaMania_MegaManPlayer_92
+    21300186: MegaMania_MegaManPlayer_93
+    21300188: MegaMania_MegaManPlayer_94
+    21300190: MegaMania_MegaManPlayer_95
+    21300192: MegaMania_MegaManPlayer_96
+    21300194: MegaMania_MegaManPlayer_97
+    21300196: MegaMania_MegaManPlayer_98
+    21300198: MegaMania_MegaManPlayer_99
+    21300200: MegaMania_MegaManPlayer_100
+    21300202: MegaMania_MegaManPlayer_101
+    21300204: MegaMania_MegaManPlayer_102
+    21300206: MegaMania_MegaManPlayer_103
+    21300208: MegaMania_MegaManPlayer_104
+    21300210: MegaMania_MegaManPlayer_105
+    21300212: MegaMania_MegaManPlayer_106
+    21300214: MegaMania_MegaManPlayer_107
+    21300216: MegaMania_MegaManPlayer_108
+    21300218: MegaMania_MegaManPlayer_109
+    21300220: MegaMania_MegaManPlayer_110
+    21300222: MegaMania_MegaManPlayer_111
+    21300224: MegaMania_MegaManPlayer_112
+    21300226: MegaMania_MegaManPlayer_113
+    21300228: MegaMania_MegaManPlayer_114
+    21300230: MegaMania_MegaManPlayer_115
+    21300232: MegaMania_MegaManPlayer_116
+    21300234: MegaMania_MegaManPlayer_117
+    21300236: MegaMania_MegaManPlayer_118
+    21300238: MegaMania_MegaManPlayer_119
+    21300240: MegaMania_MegaManPlayer_120
+    21300242: MegaMania_MegaManPlayer_121
+    21300244: MegaMania_MegaManPlayer_122
+    21300246: MegaMania_MegaManPlayer_123
+    21300248: MegaMania_MegaManPlayer_124
+    21300250: MegaMania_MegaManPlayer_125
+    21300252: MegaMania_MegaManPlayer_126
+    21300254: MegaMania_MegaManPlayer_127
+    21300256: MegaMania_MegaManPlayer_128
+    21300258: MegaMania_MegaManPlayer_129
+    21300260: MegaMania_MegaManPlayer_130
+    21300262: MegaMania_MegaManPlayer_131
+    21300264: MegaMania_MegaManPlayer_132
+    21300266: MegaMania_MegaManPlayer_133
+    21300268: MegaMania_MegaManPlayer_134
+    21300270: MegaMania_MegaManPlayer_135
+    21300272: MegaMania_MegaManPlayer_136
+    21300274: MegaMania_MegaManPlayer_137
+    21300276: MegaMania_MegaManPlayer_138
+    21300278: MegaMania_MegaManPlayer_139
+    21300280: MegaMania_MegaManPlayer_140
+    21300282: MegaMania_MegaManPlayer_141
+    21300284: MegaMania_MegaManPlayer_142
+    21300286: MegaMania_MegaManPlayer_143
+    21300288: MegaMania_MegaManPlayer_144
+    21300290: MegaMania_MegaManPlayer_145
+    21300292: MegaMania_MegaManPlayer_146
+    21300294: MegaMania_MegaManPlayer_147
+    21300296: MegaMania_MegaManPlayer_148
+    21300298: MegaMania_MegaManPlayer_149
+    21300300: MegaMania_MegaManPlayer_150
+    21300302: MegaMania_MegaManPlayer_151
+    21300304: MegaMania_MegaManPlayer_152
+    21300306: MegaMania_MegaManPlayer_153
+    21300308: MegaMania_MegaManPlayer_154
+    21300310: MegaMania_MegaManPlayer_155
+    21300312: MegaMania_MegaManPlayer_156
+    21300314: MegaMania_MegaManPlayer_157
+    21300316: MegaMania_MegaManPlayer_158
+    21300318: MegaMania_MegaManPlayer_159
+    21300320: MegaMania_MegaManPlayer_160
+    21300322: MegaMania_MegaManPlayer_161
+    21300324: MegaMania_MegaManPlayer_162
+    21300326: MegaMania_MegaManPlayer_163
+    21300328: MegaMania_MegaManPlayer_164
+    21300330: MegaMania_MegaManPlayer_165
+    21300332: MegaMania_MegaManPlayer_166
+    21300334: MegaMania_MegaManPlayer_167
+    21300336: MegaMania_MegaManPlayer_168
+    21300338: MegaMania_MegaManPlayer_169
+    21300340: MegaMania_MegaManPlayer_170
+    21300342: MegaMania_MegaManPlayer_171
+    21300344: MegaMania_MegaManPlayer_172
+    21300346: MegaMania_MegaManPlayer_173
+    21300348: MegaMania_MegaManPlayer_174
+    21300350: MegaMania_MegaManPlayer_175
+    21300352: MegaMania_MegaManPlayer_176
+    21300354: MegaMania_MegaManPlayer_177
+    21300356: MegaMania_MegaManPlayer_178
+    21300358: MegaMania_MegaManPlayer_179
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MegaMania_MegaManPlayer_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 295
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 318
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 296
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 310
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 296
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 295
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 294
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 294
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 263
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 264
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 264
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 264
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 264
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 264
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 263
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 264
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 264
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_28
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 264
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 230
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 230
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 230
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 231
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 231
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 231
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 231
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 230
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 230
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_39
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 230
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_40
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 237
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_42
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 241
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 197
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 197
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 197
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_47
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 193
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 195
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 195
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_50
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 193
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 194
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 194
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 201
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 200
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_56
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 211
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_57
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 203
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 201
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_60
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 195
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_61
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 156
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_64
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 155
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 156
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_67
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 159
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_69
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 159
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 159
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_71
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 157
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_72
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 162
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 157
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 123
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 123
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_77
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 123
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 123
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_82
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 102
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_83
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 123
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_84
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 123
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_85
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_86
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 123
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_87
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 123
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 90
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 90
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_93
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 106
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_95
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_96
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 102
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 90
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_99
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 90
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_100
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 90
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_101
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 90
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_102
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 90
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 58
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_104
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 58
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 57
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_108
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 58
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_109
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 57
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_110
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 58
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_111
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 59
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_112
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 56
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_113
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 56
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_114
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 56
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 28
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_117
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 28
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_118
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_119
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_120
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_121
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_122
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_123
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_124
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_125
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_127
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 9
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_128
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_131
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_132
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_133
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_136
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_137
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_138
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_140
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_141
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_142
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_143
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_144
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_145
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_146
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_147
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_149
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_150
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_151
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_152
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_153
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_154
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_155
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_156
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_157
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_158
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_159
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_160
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 20
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_162
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_163
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_164
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_166
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_167
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_168
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_169
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_170
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_171
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_172
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_173
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_174
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_175
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_176
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_177
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_178
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMania_MegaManPlayer_179
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

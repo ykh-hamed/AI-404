@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: 1c62e0fdeca759347a9de7688ab457b5
+timeCreated: 1450533265
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy_robots_1_0
+    21300002: Enemy_robots_1_1
+    21300004: Enemy_robots_1_2
+    21300006: Enemy_robots_1_3
+    21300008: Enemy_robots_1_4
+    21300010: Enemy_robots_1_5
+    21300012: Enemy_robots_1_6
+    21300014: Enemy_robots_1_7
+    21300016: Enemy_robots_1_8
+    21300018: Enemy_robots_1_9
+    21300020: Enemy_robots_1_10
+    21300022: Enemy_robots_1_11
+    21300024: Enemy_robots_1_12
+    21300026: Enemy_robots_1_13
+    21300028: Enemy_robots_1_14
+    21300030: Enemy_robots_1_15
+    21300032: Enemy_robots_1_16
+    21300034: Enemy_robots_1_17
+    21300036: Enemy_robots_1_18
+    21300038: Enemy_robots_1_19
+    21300040: Enemy_robots_1_20
+    21300042: Enemy_robots_1_21
+    21300044: Enemy_robots_1_22
+    21300046: Enemy_robots_1_23
+    21300048: Enemy_robots_1_24
+    21300050: Enemy_robots_1_25
+    21300052: Enemy_robots_1_26
+    21300054: Enemy_robots_1_27
+    21300056: Enemy_robots_1_28
+    21300058: Enemy_robots_1_29
+    21300060: Enemy_robots_1_30
+    21300062: Enemy_robots_1_31
+    21300064: Enemy_robots_1_32
+    21300066: Enemy_robots_1_33
+    21300068: Enemy_robots_1_34
+    21300070: Enemy_robots_1_35
+    21300072: Enemy_robots_1_36
+    21300074: Enemy_robots_1_37
+    21300076: Enemy_robots_1_38
+    21300078: Enemy_robots_1_39
+    21300080: Enemy_robots_1_40
+    21300082: Enemy_robots_1_41
+    21300084: Enemy_robots_1_42
+    21300086: Enemy_robots_1_43
+    21300088: Enemy_robots_1_44
+    21300090: Enemy_robots_1_45
+    21300092: Enemy_robots_1_46
+    21300094: Enemy_robots_1_47
+    21300096: Enemy_robots_1_48
+    21300098: Enemy_robots_1_49
+    21300100: Enemy_robots_1_50
+    21300102: Enemy_robots_1_51
+    21300104: Enemy_robots_1_52
+    21300106: Enemy_robots_1_53
+    21300108: Enemy_robots_1_54
+    21300110: Enemy_robots_1_55
+    21300112: Enemy_robots_1_56
+    21300114: Enemy_robots_1_57
+    21300116: Enemy_robots_1_58
+    21300118: Enemy_robots_1_59
+    21300120: Enemy_robots_1_60
+    21300122: Enemy_robots_1_61
+    21300124: Enemy_robots_1_62
+    21300126: Enemy_robots_1_63
+    21300128: Enemy_robots_1_64
+    21300130: Enemy_robots_1_65
+    21300132: Enemy_robots_1_66
+    21300134: Enemy_robots_1_67
+    21300136: Enemy_robots_1_68
+    21300138: Enemy_robots_1_69
+    21300140: Enemy_robots_1_70
+    21300142: Enemy_robots_1_71
+    21300144: Enemy_robots_1_72
+    21300146: Enemy_robots_1_73
+    21300148: Enemy_robots_1_74
+    21300150: Enemy_robots_1_75
+    21300152: Enemy_robots_1_76
+    21300154: Enemy_robots_1_77
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy_robots_1_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 551
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 550
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 549
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 546
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 549
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 549
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 548
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 579
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_8
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 587
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 550
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 551
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_11
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 552
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 442
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 443
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 443
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 443
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 443
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 442
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 443
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 441
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_20
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 431
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_21
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 502
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_22
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 467
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 457
+        width: 78
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_24
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 436
+        width: 76
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 396
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 350
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 351
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 353
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_30
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 372
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 375
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 395
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 376
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 373
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 376
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_36
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 315
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 315
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_38
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 315
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_39
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 314
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_40
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 314
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 352
+        width: 76
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 315
+        width: 102
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 319
+        width: 102
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 318
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 317
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 281
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 278
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 237
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 237
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_50
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 274
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_51
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 218
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_52
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 216
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_53
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 214
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 240
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 237
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 234
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 232
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_58
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 119
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_61
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 118
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 115
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_63
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 118
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_64
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 118
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_65
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 128
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_66
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 126
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_67
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 124
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_68
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 145
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 120
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_70
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 11
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 12
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_72
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 12
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_73
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 12
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_75
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 11
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_76
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 12
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_robots_1_77
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 5
+        width: 208
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
